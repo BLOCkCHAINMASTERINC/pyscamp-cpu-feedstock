@@ -1,4 +1,4 @@
-About pyscamp-cpu-feedstock
+e7f468e1a73fb745bd8445ad7ab1ee0610e3ed8a pyscamp-cpu-feedstock
 ===========================
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyscamp-cpu-feedstock/blob/main/LICENSE.txt)
